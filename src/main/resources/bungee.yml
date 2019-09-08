@@ -1,0 +1,6 @@
+name: FactAchivements
+main: net.factmc.FactAchivements.bungee.FactAchivementsBungee
+version: 0.1
+authors: [TrollyLoki, Arti_Creep]
+
+depend: [FactCore]

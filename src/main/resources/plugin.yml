@@ -1,0 +1,13 @@
+name: FactAchivements
+main: net.factmc.FactAchivements.bukkit.FactAchivementsBukkit
+version: 0.1
+authors: [TrollyLoki, Arti_Creep]
+
+depend: [FactCore]
+
+api-version: 1.14
+
+commands:
+  factachivements:
+    aliases: [factachive, fa]
+    permission: factachivements.manage
