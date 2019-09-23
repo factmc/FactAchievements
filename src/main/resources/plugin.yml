@@ -1,6 +1,6 @@
-name: FactAchivements
-main: net.factmc.FactAchivements.bukkit.FactAchivementsBukkit
-version: 0.1
+name: ${project.artifactId}
+main: ${project.groupId}.bukkit.FactAchivementsBukkit
+version: ${project.version}
 authors: [TrollyLoki, Arti_Creep]
 
 depend: [FactCore]
