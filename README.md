@@ -1,3 +1,3 @@
 # FactAchivements
-Achievements System for the FACT MC Network
+Achievements System for the Network
 
